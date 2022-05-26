@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/V10482?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Azure PowerShell on the Cloud [Video]
 This is the code repository for [Azure PowerShell on the Cloud [Video]](https://www.packtpub.com/virtualization-and-cloud/azure-powershell-cloud-video?utm_source=github&utm_medium=repository&utm_campaign=9781789134216), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
