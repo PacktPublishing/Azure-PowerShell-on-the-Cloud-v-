@@ -61,3 +61,7 @@ PowerShell (Linux/Mac) PowerShell Core v6 & Azure RM Module installed
 
 * [Infrastructure as a Service Solutions with Azure [Video]](https://www.packtpub.com/virtualization-and-cloud/infrastructure-service-solutions-azure-video?utm_source=github&utm_medium=repository&utm_campaign=9781787123274)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789134216">https://packt.link/free-ebook/9781789134216 </a> </p>
